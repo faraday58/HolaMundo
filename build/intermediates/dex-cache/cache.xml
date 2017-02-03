@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\PC\AndroidStudioProjects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_3fbc201150d553ca3292cd4688a60b97be1201d6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PC\AndroidStudioProjects\HolaMundo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8be08bf456e4f19ae36bcc6272db99642f79b2b4">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7c014f8ffac5f21118a820855e129666fa4866ff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_85550dc53a0086a05ee9018b1771f63580c43d50\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PC\AndroidStudioProjects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_4234b15b607dad4ab9cc2751b8d27391cd593cde\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PC\AndroidStudioProjects\HolaMundo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7ad494fdda9061d49209d0caf9fc0260c56732fc">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_42f9660f9607cfe2c4614c08a724f8b311d4c248\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PC\AndroidStudioProjects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_4a9034b15bf40d10a4e7bbecd305f43c4c506d0c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PC\AndroidStudioProjects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_2b8d88b7d53880b55ab30b7994f7d520b181db48\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PC\AndroidStudioProjects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_d3776900fea8880698353163437f3fd7fcfc7959\classes.dex" />
+    </item>
+
+</items>
